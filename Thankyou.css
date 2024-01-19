@@ -1,0 +1,18 @@
+.logout-container{
+    display: flex;
+    gap: 30px;
+    margin: 60px auto;
+}
+.logout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 220px;
+    height: 59px;
+    color: #fff;
+    background-color: brown;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer; 
+}
